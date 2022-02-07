@@ -1,3 +1,4 @@
+[![Scorecards supply-chain security](https://github.com/bancolombia/hygieia-scm-azure-repos-collector-base/actions/workflows/scorecards-analysis.yml/badge.svg)](https://github.com/bancolombia/hygieia-scm-azure-repos-collector-base/actions/workflows/scorecards-analysis.yml)
 ---
 title: Azure repos Collector
 tags:
